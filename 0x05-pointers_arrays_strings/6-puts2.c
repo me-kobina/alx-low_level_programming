@@ -1,6 +1,14 @@
 #include"main.h"
 #include <stdio.h>
 
+/**
+ * puts2 - prints a string in reverse
+ *
+ * @s: string parameter input
+ *
+ * Return: Nothing
+*/
+
 void puts2(char *s)
 {
 	int index;
